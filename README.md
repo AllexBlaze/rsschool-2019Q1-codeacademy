@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Aliaksandr Navumchyk
+https://www.codecademy.com/users/0431540627/achievements
