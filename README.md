@@ -1,2 +1,2 @@
 Aliaksandr Navumchyk
-https://www.codecademy.com/users/0431540627/achievements
+HTML CSS Basics: https://www.codecademy.com/users/0431540627/achievements
